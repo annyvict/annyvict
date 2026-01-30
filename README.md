@@ -8,7 +8,7 @@
 - 🎣 Fun fact: eu gosto de pescar no Stardew Valley
   <!-- adicionar anedota -->
 
-#
+
 
 <div>
   <img align="space-around" width="100" alt="tsukasa-com-gato" src="tsukasa-com-gato.jpg">
@@ -24,6 +24,8 @@
 
 ### Meu progresso no Roadmap 🎉 <img align="center" width="80" alt="shine" src="shine.gif">
 [![roadmap.sh](https://roadmap.sh/card/wide/6967f999cfbef9e2761bc9b3?variant=dark&roadmaps=python%2Ccyber-security)](https://roadmap.sh)
+
+#
 
 #### Cobrinha 🐍
 <picture align="center">
