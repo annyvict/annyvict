@@ -2,7 +2,7 @@
 
 ## <img align="left" width="300" alt="magic-wand" src="magicwand.gif"> Olá! Seja bem vindo(a) ao meu perfil👋🐱
 
-- 🌱 Atualmente estou aprendendo Python e Cibersegurança ╰(*°▽°*)╯
+- 🌱 Atualmente estou aprendendo Jogos 2D e Cibersegurança ╰(*°▽°*)╯
 - 🎵 Música favorita: Dreamer - Laufey
 - 📚 Livro favorito: Anne de Green Gables
 - 🎣 Fun fact: eu gosto de pescar no Stardew Valley
@@ -19,11 +19,6 @@
   <img align="space-around" width="100" alt="strawberry-shortcake" src="strawberryshortcake.gif">
   <img align="space-around" width="100" alt="meu-gato" src="mel.gif">
 </div>
-
-#
-
-### Meu progresso no Roadmap 🎉 <img align="center" width="80" alt="shine" src="shine.gif">
-[![roadmap.sh](https://roadmap.sh/card/wide/6967f999cfbef9e2761bc9b3?variant=dark&roadmaps=python%2Ccyber-security)](https://roadmap.sh)
 
 #
 
