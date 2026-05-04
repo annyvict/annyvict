@@ -3,7 +3,7 @@
 ## <img align="left" width="300" alt="magic-wand" src="magicwand.gif"> Olá! Seja bem vindo(a) ao meu perfil👋🐱
 
 - 🌱 Atualmente estou aprendendo Jogos 2D e Cibersegurança ╰(*°▽°*)╯
-- 🎵 Música favorita: Dreamer - Laufey
+- 🎵 Música favorita: drop dead - Olivia Rodrigo
 - 📚 Livro favorito: Anne de Green Gables
 - 🎣 Fun fact: eu gosto de pescar no Stardew Valley
   <!-- adicionar anedota -->
